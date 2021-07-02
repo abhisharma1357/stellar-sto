@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "node-fetch": "^2.3.0",
-    "stellar-sdk": "^0.15.0"
+    "stellar-sdk": "^8.2.3"
   }
 }
